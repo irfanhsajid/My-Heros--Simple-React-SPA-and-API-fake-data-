@@ -1,4 +1,4 @@
-# One Ummah Network Presents 'Meet My Scholar'
+# One Path Network Presents 'Meet My Scholar'
 
 This is a simple project by usig React Js, Bootstrap and vanilla CSS. 
 
