@@ -1,0 +1,12 @@
+
+.onePath-logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: right;
+    box-shadow: 2px 2px 15px 5px #807a7a;
+}
+.title{
+    font-size: 24px;
+}

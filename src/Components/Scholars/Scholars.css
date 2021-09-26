@@ -1,0 +1,13 @@
+.main-container{
+    display: flex;
+  
+}
+.scholars-container{
+    width: 70%;
+   
+}
+.budget-container{
+    width: 30%;
+    margin-top: 5%;
+ 
+}
