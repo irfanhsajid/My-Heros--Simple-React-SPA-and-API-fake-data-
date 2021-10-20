@@ -10,8 +10,8 @@ const Cart = (props) => {
     }
 
     return (
-        <div className="position-md-absolute">
-            <div className='cart-style rounded-2 mx-2 position-md-fixed'>
+        <div className="cart-container">
+            <div className='cart-style rounded-2 mx-2'>
                 <h2 className="text-center cart-text">Meeting Info</h2>
                 <p className="border-bottom"></p>
                 <h5>No. of Scholars Invited: <span className="cart-text"> {props.meeting.length} </span></h5>

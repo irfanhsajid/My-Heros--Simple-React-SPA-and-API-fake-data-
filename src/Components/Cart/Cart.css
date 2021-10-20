@@ -9,3 +9,12 @@
 /* .scholars-name{
     display: inline-block;
 } */
+
+@media screen and (min-width:981px) {
+    .cart-container{
+        position: relative;
+    }
+    .cart-style{
+        position: fixed;
+    }
+}
