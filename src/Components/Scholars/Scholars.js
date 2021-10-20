@@ -18,7 +18,7 @@ const Scholars = () => {
     }, [])
     return (
         <div className="main-container">
-            <div className='scholars-container mx-2' >
+            <div className='scholars-container mx-md-2' >
                 <div className="row">
                     {
                         scholars.map(scholar =>
@@ -32,7 +32,7 @@ const Scholars = () => {
                 </div>
             </div>
 
-            <div className="budget-container mx-3">
+            <div className="budget-container ms-lg-3">
                 <Cart meeting={meeting} >
 
                 </Cart>
